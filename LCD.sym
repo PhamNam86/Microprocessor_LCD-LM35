@@ -1,0 +1,261 @@
+000     INDF
+001     TMR0
+002     PCL
+003     STATUS
+004-005 @READ_PROGRAM_MEMORY8.P1
+004     @WRITE_PROGRAM_MEMORY8.P2
+004     FSR
+005     PORTA
+005.0   RA0
+005.1   RA1
+005.2   RA2
+005.3   RA3
+005.4   RA4
+005.5   RA5
+006     PORTB
+006.0   RB0
+006.1   RB1
+006.2   RB2
+006.3   RB3
+006.4   RB4
+006.5   RB5
+006.6   RB6
+006.7   RB7
+007.0   RC0
+007     PORTC
+007.1   RC1
+007.2   RC2
+007.3   RC3
+007.4   RC4
+007.5   RC5
+007.6   RC6
+007.7   RC7
+008     PORTD
+008.0   RD0
+008.1   RD1
+008.2   RD2
+008.3   RD3
+008.4   RD4
+008.5   RD5
+008.6   RD6
+008.7   RD7
+009     PORTE
+009.0   RE0
+009.1   RE1
+009.2   RE2
+00A     PCLATH
+00B     INTCON
+00B.0   rbif
+00B.1   int0if
+00B.2   tmr0if
+00B.3   rbie
+00B.4   int0ie
+00B.5   tmr0ie
+00B.6   peie
+00B.7   gie
+00C     PIR1
+00C.0   tmr1if
+00C.1   tmr2if
+00C.2   ccp1if
+00C.3   sspif
+00C.4   txif
+00C.5   rcif
+00C.6   adif
+00C.7   pspif
+00D.0   ccp2if
+00D     PIR2
+00D.3   bclif
+00D.4   eeif
+00D.6   cmif
+013     SSPBUF
+014     SSPCON
+014.5   SSPEN
+015     CCP_1_LOW
+015-016 CCP_1
+015     dc1
+016     CCP_1_HIGH
+018.0   rxd
+018.7   spen
+019     txreg
+01A     rc
+01B     CCP_2_LOW
+01B-01C CCP_2
+01C     CCP_2_HIGH
+01F     ADCON0
+01F.3   CHS0
+01F.4   CHS1
+01F.5   CHS2
+020-027 temperature
+028-029 temp
+02A     lcd_init.i
+02A     MAIN.@SCRATCH1
+02B     lcd_init.@SCRATCH1
+02B     MAIN.@SCRATCH2
+02C-02D @ITOF.P1
+02C-02F @SFTOI.P2
+02C-02D @DIV1616.P3
+02C     lcd_putc.c
+02C-02F @MULFF.P1
+02C     MAIN.@SCRATCH3
+02D     lcd_gotoxy.x
+02D     @delay_ms2.P1
+02E-02F @DIV1616.P1
+02E     lcd_gotoxy.y
+02F     lcd_gotoxy.address
+030-033 @MULFF.P1
+030     lcd_gotoxy.@SCRATCH1
+030     @DIV1616.@SCRATCH1
+031     lcd_send_byte.address
+032     lcd_send_byte.n
+033     lcd_read_byte.low
+033     lcd_send_byte.@SCRATCH1
+034     lcd_read_byte.high
+034     lcd_send_nibble.n
+034     @MULFF.@SCRATCH1
+035     lcd_read_nibble.n
+035     @MULFF.@SCRATCH2
+035     lcd_read_byte.@SCRATCH1
+036     @MULFF.@SCRATCH3
+036     lcd_read_nibble.@SCRATCH1
+037     @MULFF.@SCRATCH4
+038     @MULFF.@SCRATCH5
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07B     @SCRATCH
+081.0   ps0
+081     OPTION_REG
+081.1   ps1
+081.2   ps2
+081.3   psa
+081.4   t0se
+081.5   t0cs
+081.6   intedg
+081.7   not_rbpu
+085     TRISA
+085.0   TRISA0
+085.1   TRISA1
+085.2   TRISA2
+085.3   TRISA3
+085.4   TRISA4
+085.5   TRISA5
+086     TRISB
+086.0   TRISB0
+086.1   TRISB1
+086.2   TRISB2
+086.3   TRISB3
+086.4   TRISB4
+086.5   TRISB5
+086.6   TRISB6
+086.7   TRISB7
+087     TRISC
+087.0   TRISC0
+087.1   TRISC1
+087.2   TRISC2
+087.3   TRISC3
+087.4   TRISC4
+087.5   TRISC5
+087.6   TRISC6
+087.7   TRISC7
+088     TRISD
+088.0   TRISD0
+088.1   TRISD1
+088.2   TRISD2
+088.3   TRISD3
+088.4   TRISD4
+088.5   TRISD5
+088.6   TRISD6
+088.7   TRISD7
+089     TRISE
+089.0   TRISE0
+089.1   TRISE1
+089.2   TRISE2
+08C     PIE1
+08C.0   tmr1ie
+08C.1   tmr2ie
+08C.2   ccp1ie
+08C.3   sspie
+08C.4   txie
+08C.5   rcie
+08C.6   adie
+08D     PIE2
+08D.4   eeie
+08D.6   cmie
+08D.7   osfie
+098     txsta
+098.4   phat
+098.5   txen
+098.6   tx9
+098.7   master
+099     spbrg
+09F     ADRESH
+09F     ADCON1
+09F     ADSESL
+107.6   C1OUT
+108.6   C2OUT
+10C     EEDATA
+10D-10E @READ_PROGRAM_MEMORY8.P1
+10D     EEADR
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10E     EEDATH
+10F     EEADRH
+18C     EECON1
+18C.0   rd
+18C.1   wr
+18C.2   wren
+18C.3   wrerr
+18C.4   free
+18C.7   eepgd
+18D     EECON2
+
+ROM Allocation:
+01BD  @SFTOI
+0127  @ITOF
+0146  @MULFF
+001D  @delay_ms2
+0004  LCD_INIT_STRING
+00AE  lcd_init
+0071  lcd_read_byte
+004B  lcd_read_nibble
+0070  lcd_send_byte
+0032  lcd_send_nibble
+00DF  lcd_gotoxy
+0102  lcd_putc
+0203  MAIN
+000C  @const385
+01DE  @DIV1616
+0203  @cinit
+
+Project Directory:
+    D:\Microprocess System\Proteus\LCD+LM35\
+
+Project Files:
+    LCD.c
+    C:\Program Files (x86)\PICC\devices\16F887.h
+    C:\Program Files (x86)\PICC\drivers\luutinh.h
+    C:\Program Files (x86)\PICC\drivers\LCD.h
+    C:\Program Files (x86)\PICC\drivers\math.h
+
+Units:
+    LCD.c (main)
+
+Compiler Settings:
+    Processor:      PIC16F887
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      LCD.err
+    Ext Symbols: LCD.esym
+    INHX8:       LCD.hex
+    Symbols:     LCD.sym
+    List:        LCD.lst
+    Debug/COFF:  LCD.cof
+    Project:     LCD.PJT
+    Call Tree:   LCD.tre
+    Statistics:  LCD.sta

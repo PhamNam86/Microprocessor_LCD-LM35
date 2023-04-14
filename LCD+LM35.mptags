@@ -1,0 +1,559 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_CLOCK_DIV_2::0x100	C:\Program Files (x86)\PICC\Devices\16F887.h	333;"	d	line:333
+ADC_CLOCK_DIV_32::0x80	C:\Program Files (x86)\PICC\Devices\16F887.h	335;"	d	line:335
+ADC_CLOCK_DIV_8::0x40	C:\Program Files (x86)\PICC\Devices\16F887.h	334;"	d	line:334
+ADC_CLOCK_INTERNAL::0xc0	C:\Program Files (x86)\PICC\Devices\16F887.h	336;"	d	line:336
+ADC_OFF::0	C:\Program Files (x86)\PICC\Devices\16F887.h	332;"	d	line:332
+ADC_READ_ONLY::6	C:\Program Files (x86)\PICC\Devices\16F887.h	367;"	d	line:367
+ADC_START_AND_READ::7	C:\Program Files (x86)\PICC\Devices\16F887.h	365;"	d	line:365
+ADC_START_ONLY::1	C:\Program Files (x86)\PICC\Devices\16F887.h	366;"	d	line:366
+ALL_ANALOG::0x1F00FF	C:\Program Files (x86)\PICC\Devices\16F887.h	355;"	d	line:355
+ASIN_COS	C:\Program Files (x86)\PICC\Drivers\MATH.H	1279;"	f	line:1279	signature:(float32 x, unsigned int8 n)
+ASIN_COS	C:\Program Files (x86)\PICC\Drivers\MATH.H	1327;"	f	line:1327	signature:(float48 x, unsigned int8 n)
+ASIN_COS	C:\Program Files (x86)\PICC\Drivers\MATH.H	1373;"	f	line:1373	signature:(float64 x, unsigned int8 n)
+BOOLEAN::int1	C:\Program Files (x86)\PICC\Devices\16F887.h	66;"	d	line:66
+BROWNOUT_RESTART::26	C:\Program Files (x86)\PICC\Devices\16F887.h	84;"	d	line:84
+BYTE::int8	C:\Program Files (x86)\PICC\Devices\16F887.h	65;"	d	line:65
+CCP_1	C:\Program Files (x86)\PICC\Devices\16F887.h	190;"	v	line:190
+CCP_2	C:\Program Files (x86)\PICC\Devices\16F887.h	228;"	v	line:228
+CCP_CAPTURE_DIV_16::7	C:\Program Files (x86)\PICC\Devices\16F887.h	181;"	d	line:181
+CCP_CAPTURE_DIV_4::6	C:\Program Files (x86)\PICC\Devices\16F887.h	180;"	d	line:180
+CCP_CAPTURE_FE::4	C:\Program Files (x86)\PICC\Devices\16F887.h	178;"	d	line:178
+CCP_CAPTURE_RE::5	C:\Program Files (x86)\PICC\Devices\16F887.h	179;"	d	line:179
+CCP_COMPARE_CLR_ON_MATCH::9	C:\Program Files (x86)\PICC\Devices\16F887.h	183;"	d	line:183
+CCP_COMPARE_INT::0xA	C:\Program Files (x86)\PICC\Devices\16F887.h	184;"	d	line:184
+CCP_COMPARE_RESET_TIMER::0xB	C:\Program Files (x86)\PICC\Devices\16F887.h	185;"	d	line:185
+CCP_COMPARE_SET_ON_MATCH::8	C:\Program Files (x86)\PICC\Devices\16F887.h	182;"	d	line:182
+CCP_OFF::0	C:\Program Files (x86)\PICC\Devices\16F887.h	177;"	d	line:177
+CCP_PULSE_STEERING_A::0x01000000	C:\Program Files (x86)\PICC\Devices\16F887.h	222;"	d	line:222
+CCP_PULSE_STEERING_B::0x02000000	C:\Program Files (x86)\PICC\Devices\16F887.h	223;"	d	line:223
+CCP_PULSE_STEERING_C::0x04000000	C:\Program Files (x86)\PICC\Devices\16F887.h	224;"	d	line:224
+CCP_PULSE_STEERING_D::0x08000000	C:\Program Files (x86)\PICC\Devices\16F887.h	225;"	d	line:225
+CCP_PULSE_STEERING_SYNC::0x10000000	C:\Program Files (x86)\PICC\Devices\16F887.h	226;"	d	line:226
+CCP_PWM::0xC	C:\Program Files (x86)\PICC\Devices\16F887.h	186;"	d	line:186
+CCP_PWM_FULL_BRIDGE::0x40	C:\Program Files (x86)\PICC\Devices\16F887.h	200;"	d	line:200
+CCP_PWM_FULL_BRIDGE_REV::0xC0	C:\Program Files (x86)\PICC\Devices\16F887.h	201;"	d	line:201
+CCP_PWM_HALF_BRIDGE::0x80	C:\Program Files (x86)\PICC\Devices\16F887.h	202;"	d	line:202
+CCP_PWM_H_H::0x0c	C:\Program Files (x86)\PICC\Devices\16F887.h	195;"	d	line:195
+CCP_PWM_H_L::0x0d	C:\Program Files (x86)\PICC\Devices\16F887.h	196;"	d	line:196
+CCP_PWM_L_H::0x0e	C:\Program Files (x86)\PICC\Devices\16F887.h	197;"	d	line:197
+CCP_PWM_L_L::0x0f	C:\Program Files (x86)\PICC\Devices\16F887.h	198;"	d	line:198
+CCP_PWM_PLUS_1::0x1c	C:\Program Files (x86)\PICC\Devices\16F887.h	187;"	d	line:187
+CCP_PWM_PLUS_2::0x2c	C:\Program Files (x86)\PICC\Devices\16F887.h	188;"	d	line:188
+CCP_PWM_PLUS_3::0x3c	C:\Program Files (x86)\PICC\Devices\16F887.h	189;"	d	line:189
+CCP_SHUTDOWN_AC_F::0x080000	C:\Program Files (x86)\PICC\Devices\16F887.h	214;"	d	line:214
+CCP_SHUTDOWN_AC_H::0x040000	C:\Program Files (x86)\PICC\Devices\16F887.h	213;"	d	line:213
+CCP_SHUTDOWN_AC_L::0x000000	C:\Program Files (x86)\PICC\Devices\16F887.h	212;"	d	line:212
+CCP_SHUTDOWN_BD_F::0x020000	C:\Program Files (x86)\PICC\Devices\16F887.h	218;"	d	line:218
+CCP_SHUTDOWN_BD_H::0x010000	C:\Program Files (x86)\PICC\Devices\16F887.h	217;"	d	line:217
+CCP_SHUTDOWN_BD_L::0x000000	C:\Program Files (x86)\PICC\Devices\16F887.h	216;"	d	line:216
+CCP_SHUTDOWN_ON_COMP1::0x100000	C:\Program Files (x86)\PICC\Devices\16F887.h	204;"	d	line:204
+CCP_SHUTDOWN_ON_COMP1_INT0::0x500000	C:\Program Files (x86)\PICC\Devices\16F887.h	208;"	d	line:208
+CCP_SHUTDOWN_ON_COMP2::0x200000	C:\Program Files (x86)\PICC\Devices\16F887.h	205;"	d	line:205
+CCP_SHUTDOWN_ON_COMP2_INT0::0x600000	C:\Program Files (x86)\PICC\Devices\16F887.h	209;"	d	line:209
+CCP_SHUTDOWN_ON_COMP::0x300000	C:\Program Files (x86)\PICC\Devices\16F887.h	206;"	d	line:206
+CCP_SHUTDOWN_ON_COMP_INT0::0x700000	C:\Program Files (x86)\PICC\Devices\16F887.h	210;"	d	line:210
+CCP_SHUTDOWN_ON_INT0::0x400000	C:\Program Files (x86)\PICC\Devices\16F887.h	207;"	d	line:207
+CCP_SHUTDOWN_RESTART::0x80000000	C:\Program Files (x86)\PICC\Devices\16F887.h	220;"	d	line:220
+CEIL_FLOOR	C:\Program Files (x86)\PICC\Drivers\MATH.H	137;"	f	line:137	signature:(float64 x, unsigned int8 n)
+CEIL_FLOOR	C:\Program Files (x86)\PICC\Drivers\MATH.H	36;"	f	line:36	signature:(float32 x, unsigned int8 n)
+CEIL_FLOOR	C:\Program Files (x86)\PICC\Drivers\MATH.H	87;"	f	line:87	signature:(float48 x, unsigned int8 n)
+CP1_A0_A3::0x00090080	C:\Program Files (x86)\PICC\Devices\16F887.h	267;"	d	line:267
+CP1_A0_VREF::0x00010084	C:\Program Files (x86)\PICC\Devices\16F887.h	271;"	d	line:271
+CP1_A1_A3::0x000A0081	C:\Program Files (x86)\PICC\Devices\16F887.h	268;"	d	line:268
+CP1_A1_VREF::0x00020085	C:\Program Files (x86)\PICC\Devices\16F887.h	272;"	d	line:272
+CP1_ABSOLUTE_VREF::0x20000000	C:\Program Files (x86)\PICC\Devices\16F887.h	278;"	d	line:278
+CP1_B1_A3::0x00280083	C:\Program Files (x86)\PICC\Devices\16F887.h	270;"	d	line:270
+CP1_B1_VREF::0x00200087	C:\Program Files (x86)\PICC\Devices\16F887.h	274;"	d	line:274
+CP1_B3_A3::0x00880082	C:\Program Files (x86)\PICC\Devices\16F887.h	269;"	d	line:269
+CP1_B3_VREF::0x00800086	C:\Program Files (x86)\PICC\Devices\16F887.h	273;"	d	line:273
+CP1_INVERT::0x00000010	C:\Program Files (x86)\PICC\Devices\16F887.h	277;"	d	line:277
+CP1_OUT_ON_A4::0x00000020	C:\Program Files (x86)\PICC\Devices\16F887.h	276;"	d	line:276
+CP2_A0_A2::0x00058000	C:\Program Files (x86)\PICC\Devices\16F887.h	281;"	d	line:281
+CP2_A0_VREF::0x00018400	C:\Program Files (x86)\PICC\Devices\16F887.h	285;"	d	line:285
+CP2_A1_A2::0x00068100	C:\Program Files (x86)\PICC\Devices\16F887.h	282;"	d	line:282
+CP2_A1_VREF::0x00028500	C:\Program Files (x86)\PICC\Devices\16F887.h	286;"	d	line:286
+CP2_ABSOLUTE_VREF::0x10000000	C:\Program Files (x86)\PICC\Devices\16F887.h	292;"	d	line:292
+CP2_B1_A2::0x00248300	C:\Program Files (x86)\PICC\Devices\16F887.h	284;"	d	line:284
+CP2_B1_VREF::0x00208700	C:\Program Files (x86)\PICC\Devices\16F887.h	288;"	d	line:288
+CP2_B3_A2::0x00848200	C:\Program Files (x86)\PICC\Devices\16F887.h	283;"	d	line:283
+CP2_B3_VREF::0x00808600	C:\Program Files (x86)\PICC\Devices\16F887.h	287;"	d	line:287
+CP2_INVERT::0x00001000	C:\Program Files (x86)\PICC\Devices\16F887.h	291;"	d	line:291
+CP2_OUT_ON_A5::0x00002000	C:\Program Files (x86)\PICC\Devices\16F887.h	290;"	d	line:290
+CP2_T1_GATE::0x02000000	C:\Program Files (x86)\PICC\Devices\16F887.h	296;"	d	line:296
+CP2_T1_SYNC::0x01000000	C:\Program Files (x86)\PICC\Devices\16F887.h	295;"	d	line:295
+F::1	C:\Program Files (x86)\PICC\Drivers\luutinh.h	11;"	d	line:11
+FALSE::0	C:\Program Files (x86)\PICC\Devices\16F887.h	62;"	d	line:62
+GLOBAL::0x0BC0	C:\Program Files (x86)\PICC\Devices\16F887.h	382;"	d	line:382
+H_TO_L::0	C:\Program Files (x86)\PICC\Devices\16F887.h	380;"	d	line:380
+INT_AD::0x8C40	C:\Program Files (x86)\PICC\Devices\16F887.h	386;"	d	line:386
+INT_BUSCOL::0x8D08	C:\Program Files (x86)\PICC\Devices\16F887.h	394;"	d	line:394
+INT_CCP1::0x8C04	C:\Program Files (x86)\PICC\Devices\16F887.h	391;"	d	line:391
+INT_CCP2::0x8D01	C:\Program Files (x86)\PICC\Devices\16F887.h	392;"	d	line:392
+INT_COMP2::0x8D40	C:\Program Files (x86)\PICC\Devices\16F887.h	399;"	d	line:399
+INT_COMP::0x8D20	C:\Program Files (x86)\PICC\Devices\16F887.h	398;"	d	line:398
+INT_EEPROM::0x8D10	C:\Program Files (x86)\PICC\Devices\16F887.h	395;"	d	line:395
+INT_EXT::0x0B10	C:\Program Files (x86)\PICC\Devices\16F887.h	385;"	d	line:385
+INT_OSC_FAIL::0x8D80	C:\Program Files (x86)\PICC\Devices\16F887.h	397;"	d	line:397
+INT_RB0::0x010B08	C:\Program Files (x86)\PICC\Devices\16F887.h	401;"	d	line:401
+INT_RB1::0x020B08	C:\Program Files (x86)\PICC\Devices\16F887.h	402;"	d	line:402
+INT_RB2::0x040B08	C:\Program Files (x86)\PICC\Devices\16F887.h	403;"	d	line:403
+INT_RB3::0x080B08	C:\Program Files (x86)\PICC\Devices\16F887.h	404;"	d	line:404
+INT_RB4::0x100B08	C:\Program Files (x86)\PICC\Devices\16F887.h	405;"	d	line:405
+INT_RB5::0x200B08	C:\Program Files (x86)\PICC\Devices\16F887.h	406;"	d	line:406
+INT_RB6::0x400B08	C:\Program Files (x86)\PICC\Devices\16F887.h	407;"	d	line:407
+INT_RB7::0x800B08	C:\Program Files (x86)\PICC\Devices\16F887.h	408;"	d	line:408
+INT_RB::0x1FF0B08	C:\Program Files (x86)\PICC\Devices\16F887.h	384;"	d	line:384
+INT_RDA::0x8C20	C:\Program Files (x86)\PICC\Devices\16F887.h	388;"	d	line:388
+INT_RTCC::0x0B20	C:\Program Files (x86)\PICC\Devices\16F887.h	383;"	d	line:383
+INT_SSP::0x8C08	C:\Program Files (x86)\PICC\Devices\16F887.h	393;"	d	line:393
+INT_TBE::0x8C10	C:\Program Files (x86)\PICC\Devices\16F887.h	387;"	d	line:387
+INT_TIMER0::0x0B20	C:\Program Files (x86)\PICC\Devices\16F887.h	396;"	d	line:396
+INT_TIMER1::0x8C01	C:\Program Files (x86)\PICC\Devices\16F887.h	389;"	d	line:389
+INT_TIMER2::0x8C02	C:\Program Files (x86)\PICC\Devices\16F887.h	390;"	d	line:390
+INT_ULPWU::0x8D04	C:\Program Files (x86)\PICC\Devices\16F887.h	400;"	d	line:400
+LCD_DATA4::PIN_D4	C:\Program Files (x86)\PICC\Drivers\lcd.h	25;"	d	line:25
+LCD_DATA5::PIN_D5	C:\Program Files (x86)\PICC\Drivers\lcd.h	26;"	d	line:26
+LCD_DATA6::PIN_D6	C:\Program Files (x86)\PICC\Drivers\lcd.h	27;"	d	line:27
+LCD_DATA7::PIN_D7	C:\Program Files (x86)\PICC\Drivers\lcd.h	28;"	d	line:28
+LCD_ENABLE_PIN::PIN_D2	C:\Program Files (x86)\PICC\Drivers\lcd.h	24;"	d	line:24
+LCD_INIT_STRING	C:\Program Files (x86)\PICC\Drivers\lcd.h	55;"	v	line:55
+LCD_RS_PIN::PIN_D0	C:\Program Files (x86)\PICC\Drivers\lcd.h	22;"	d	line:22
+LCD_RW_PIN::PIN_D1	C:\Program Files (x86)\PICC\Drivers\lcd.h	23;"	d	line:23
+LCD_TYPE::0x02	C:\Program Files (x86)\PICC\Drivers\lcd.h	52;"	d	line:52
+LN10::2.3025850929940456	C:\Program Files (x86)\PICC\Drivers\MATH.H	729;"	d	line:729
+LN2::0.6931471805599453	C:\Program Files (x86)\PICC\Drivers\MATH.H	319;"	d	line:319
+LOG2::.30102999566398119521	C:\Program Files (x86)\PICC\Drivers\MATH.H	1938;"	d	line:1938
+L_TO_H::0x40	C:\Program Files (x86)\PICC\Devices\16F887.h	379;"	d	line:379
+MATH_H	C:\Program Files (x86)\PICC\Drivers\MATH.H	21;"	d	line:21
+MCLR_FROM_RUN::27	C:\Program Files (x86)\PICC\Devices\16F887.h	82;"	d	line:82
+MCLR_FROM_SLEEP::19	C:\Program Files (x86)\PICC\Devices\16F887.h	81;"	d	line:81
+NC_NC::0x00	C:\Program Files (x86)\PICC\Devices\16F887.h	264;"	d	line:264
+NC_NC_NC_NC::0x00	C:\Program Files (x86)\PICC\Devices\16F887.h	263;"	d	line:263
+NORMAL_POWER_UP::25	C:\Program Files (x86)\PICC\Devices\16F887.h	83;"	d	line:83
+NO_ANALOGS::0	C:\Program Files (x86)\PICC\Devices\16F887.h	354;"	d	line:354
+OSC_125KHZ::0x11	C:\Program Files (x86)\PICC\Devices\16F887.h	313;"	d	line:313
+OSC_1MHZ::0x41	C:\Program Files (x86)\PICC\Devices\16F887.h	316;"	d	line:316
+OSC_250KHZ::0x21	C:\Program Files (x86)\PICC\Devices\16F887.h	314;"	d	line:314
+OSC_2MHZ::0x51	C:\Program Files (x86)\PICC\Devices\16F887.h	317;"	d	line:317
+OSC_31KHZ::1	C:\Program Files (x86)\PICC\Devices\16F887.h	312;"	d	line:312
+OSC_31KHZ_STABLE::2	C:\Program Files (x86)\PICC\Devices\16F887.h	324;"	d	line:324
+OSC_4MHZ::0x61	C:\Program Files (x86)\PICC\Devices\16F887.h	318;"	d	line:318
+OSC_500KHZ::0x31	C:\Program Files (x86)\PICC\Devices\16F887.h	315;"	d	line:315
+OSC_8MHZ::0x71	C:\Program Files (x86)\PICC\Devices\16F887.h	319;"	d	line:319
+OSC_INTRC::1	C:\Program Files (x86)\PICC\Devices\16F887.h	320;"	d	line:320
+OSC_NORMAL::0	C:\Program Files (x86)\PICC\Devices\16F887.h	321;"	d	line:321
+OSC_STATE_STABLE::4	C:\Program Files (x86)\PICC\Devices\16F887.h	323;"	d	line:323
+PI	C:\Program Files (x86)\PICC\Drivers\MATH.H	24;"	d	line:24
+PI::3.1415926535897932	C:\Program Files (x86)\PICC\Drivers\MATH.H	26;"	d	line:26
+PIN_A0::40	C:\Program Files (x86)\PICC\Devices\16F887.h	20;"	d	line:20
+PIN_A1::41	C:\Program Files (x86)\PICC\Devices\16F887.h	21;"	d	line:21
+PIN_A2::42	C:\Program Files (x86)\PICC\Devices\16F887.h	22;"	d	line:22
+PIN_A3::43	C:\Program Files (x86)\PICC\Devices\16F887.h	23;"	d	line:23
+PIN_A4::44	C:\Program Files (x86)\PICC\Devices\16F887.h	24;"	d	line:24
+PIN_A5::45	C:\Program Files (x86)\PICC\Devices\16F887.h	25;"	d	line:25
+PIN_A6::46	C:\Program Files (x86)\PICC\Devices\16F887.h	26;"	d	line:26
+PIN_A7::47	C:\Program Files (x86)\PICC\Devices\16F887.h	27;"	d	line:27
+PIN_B0::48	C:\Program Files (x86)\PICC\Devices\16F887.h	29;"	d	line:29
+PIN_B1::49	C:\Program Files (x86)\PICC\Devices\16F887.h	30;"	d	line:30
+PIN_B2::50	C:\Program Files (x86)\PICC\Devices\16F887.h	31;"	d	line:31
+PIN_B3::51	C:\Program Files (x86)\PICC\Devices\16F887.h	32;"	d	line:32
+PIN_B4::52	C:\Program Files (x86)\PICC\Devices\16F887.h	33;"	d	line:33
+PIN_B5::53	C:\Program Files (x86)\PICC\Devices\16F887.h	34;"	d	line:34
+PIN_B6::54	C:\Program Files (x86)\PICC\Devices\16F887.h	35;"	d	line:35
+PIN_B7::55	C:\Program Files (x86)\PICC\Devices\16F887.h	36;"	d	line:36
+PIN_C0::56	C:\Program Files (x86)\PICC\Devices\16F887.h	38;"	d	line:38
+PIN_C1::57	C:\Program Files (x86)\PICC\Devices\16F887.h	39;"	d	line:39
+PIN_C2::58	C:\Program Files (x86)\PICC\Devices\16F887.h	40;"	d	line:40
+PIN_C3::59	C:\Program Files (x86)\PICC\Devices\16F887.h	41;"	d	line:41
+PIN_C4::60	C:\Program Files (x86)\PICC\Devices\16F887.h	42;"	d	line:42
+PIN_C5::61	C:\Program Files (x86)\PICC\Devices\16F887.h	43;"	d	line:43
+PIN_C6::62	C:\Program Files (x86)\PICC\Devices\16F887.h	44;"	d	line:44
+PIN_C7::63	C:\Program Files (x86)\PICC\Devices\16F887.h	45;"	d	line:45
+PIN_D0::64	C:\Program Files (x86)\PICC\Devices\16F887.h	47;"	d	line:47
+PIN_D1::65	C:\Program Files (x86)\PICC\Devices\16F887.h	48;"	d	line:48
+PIN_D2::66	C:\Program Files (x86)\PICC\Devices\16F887.h	49;"	d	line:49
+PIN_D3::67	C:\Program Files (x86)\PICC\Devices\16F887.h	50;"	d	line:50
+PIN_D4::68	C:\Program Files (x86)\PICC\Devices\16F887.h	51;"	d	line:51
+PIN_D5::69	C:\Program Files (x86)\PICC\Devices\16F887.h	52;"	d	line:52
+PIN_D6::70	C:\Program Files (x86)\PICC\Devices\16F887.h	53;"	d	line:53
+PIN_D7::71	C:\Program Files (x86)\PICC\Devices\16F887.h	54;"	d	line:54
+PIN_E0::72	C:\Program Files (x86)\PICC\Devices\16F887.h	56;"	d	line:56
+PIN_E1::73	C:\Program Files (x86)\PICC\Devices\16F887.h	57;"	d	line:57
+PIN_E2::74	C:\Program Files (x86)\PICC\Devices\16F887.h	58;"	d	line:58
+PIN_E3::75	C:\Program Files (x86)\PICC\Devices\16F887.h	59;"	d	line:59
+PI_DIV_BY_TWO	C:\Program Files (x86)\PICC\Drivers\MATH.H	1067;"	d	line:1067
+PI_DIV_BY_TWO::1.5707963267948966	C:\Program Files (x86)\PICC\Drivers\MATH.H	1069;"	d	line:1069
+RTCC_8_BIT::0	C:\Program Files (x86)\PICC\Devices\16F887.h	107;"	d	line:107
+RTCC_DIV_128::6	C:\Program Files (x86)\PICC\Devices\16F887.h	103;"	d	line:103
+RTCC_DIV_16::3	C:\Program Files (x86)\PICC\Devices\16F887.h	100;"	d	line:100
+RTCC_DIV_1::8	C:\Program Files (x86)\PICC\Devices\16F887.h	96;"	d	line:96
+RTCC_DIV_256::7	C:\Program Files (x86)\PICC\Devices\16F887.h	104;"	d	line:104
+RTCC_DIV_2::0	C:\Program Files (x86)\PICC\Devices\16F887.h	97;"	d	line:97
+RTCC_DIV_32::4	C:\Program Files (x86)\PICC\Devices\16F887.h	101;"	d	line:101
+RTCC_DIV_4::1	C:\Program Files (x86)\PICC\Devices\16F887.h	98;"	d	line:98
+RTCC_DIV_64::5	C:\Program Files (x86)\PICC\Devices\16F887.h	102;"	d	line:102
+RTCC_DIV_8::2	C:\Program Files (x86)\PICC\Devices\16F887.h	99;"	d	line:99
+RTCC_EXT_H_TO_L::48	C:\Program Files (x86)\PICC\Devices\16F887.h	94;"	d	line:94
+RTCC_EXT_L_TO_H::32	C:\Program Files (x86)\PICC\Devices\16F887.h	93;"	d	line:93
+RTCC_INTERNAL::0	C:\Program Files (x86)\PICC\Devices\16F887.h	92;"	d	line:92
+SPI_CLK_DIV_16::1	C:\Program Files (x86)\PICC\Devices\16F887.h	240;"	d	line:240
+SPI_CLK_DIV_4::0	C:\Program Files (x86)\PICC\Devices\16F887.h	239;"	d	line:239
+SPI_CLK_DIV_64::2	C:\Program Files (x86)\PICC\Devices\16F887.h	241;"	d	line:241
+SPI_CLK_T2::3	C:\Program Files (x86)\PICC\Devices\16F887.h	242;"	d	line:242
+SPI_H_TO_L::0x10	C:\Program Files (x86)\PICC\Devices\16F887.h	238;"	d	line:238
+SPI_L_TO_H::0	C:\Program Files (x86)\PICC\Devices\16F887.h	237;"	d	line:237
+SPI_MASTER::0x20	C:\Program Files (x86)\PICC\Devices\16F887.h	235;"	d	line:235
+SPI_SAMPLE_AT_END::0x8000	C:\Program Files (x86)\PICC\Devices\16F887.h	245;"	d	line:245
+SPI_SLAVE::0x24	C:\Program Files (x86)\PICC\Devices\16F887.h	236;"	d	line:236
+SPI_SS_DISABLED::1	C:\Program Files (x86)\PICC\Devices\16F887.h	243;"	d	line:243
+SPI_XMIT_L_TO_H::0x4000	C:\Program Files (x86)\PICC\Devices\16F887.h	246;"	d	line:246
+SQRT2::1.4142135623730950	C:\Program Files (x86)\PICC\Drivers\MATH.H	29;"	d	line:29
+T1_CLK_OUT::8	C:\Program Files (x86)\PICC\Devices\16F887.h	154;"	d	line:154
+T1_DISABLED::0	C:\Program Files (x86)\PICC\Devices\16F887.h	149;"	d	line:149
+T1_DIV_BY_1::0	C:\Program Files (x86)\PICC\Devices\16F887.h	156;"	d	line:156
+T1_DIV_BY_2::0x10	C:\Program Files (x86)\PICC\Devices\16F887.h	157;"	d	line:157
+T1_DIV_BY_4::0x20	C:\Program Files (x86)\PICC\Devices\16F887.h	158;"	d	line:158
+T1_DIV_BY_8::0x30	C:\Program Files (x86)\PICC\Devices\16F887.h	159;"	d	line:159
+T1_EXTERNAL::0x87	C:\Program Files (x86)\PICC\Devices\16F887.h	151;"	d	line:151
+T1_EXTERNAL_SYNC::0x83	C:\Program Files (x86)\PICC\Devices\16F887.h	152;"	d	line:152
+T1_GATE::0x40	C:\Program Files (x86)\PICC\Devices\16F887.h	162;"	d	line:162
+T1_GATE_INVERTED::0xC0	C:\Program Files (x86)\PICC\Devices\16F887.h	163;"	d	line:163
+T1_INTERNAL::0x85	C:\Program Files (x86)\PICC\Devices\16F887.h	150;"	d	line:150
+T2_DISABLED::0	C:\Program Files (x86)\PICC\Devices\16F887.h	168;"	d	line:168
+T2_DIV_BY_16::6	C:\Program Files (x86)\PICC\Devices\16F887.h	171;"	d	line:171
+T2_DIV_BY_1::4	C:\Program Files (x86)\PICC\Devices\16F887.h	169;"	d	line:169
+T2_DIV_BY_4::5	C:\Program Files (x86)\PICC\Devices\16F887.h	170;"	d	line:170
+TRUE::1	C:\Program Files (x86)\PICC\Devices\16F887.h	63;"	d	line:63
+TWOBYPI	C:\Program Files (x86)\PICC\Drivers\MATH.H	1071;"	d	line:1071
+TWOBYPI::0.6366197723675813	C:\Program Files (x86)\PICC\Drivers\MATH.H	1072;"	d	line:1072
+UART_ADDRESS::2	C:\Program Files (x86)\PICC\Devices\16F887.h	252;"	d	line:252
+UART_AUTODETECT::8	C:\Program Files (x86)\PICC\Devices\16F887.h	254;"	d	line:254
+UART_AUTODETECT_NOWAIT::9	C:\Program Files (x86)\PICC\Devices\16F887.h	255;"	d	line:255
+UART_DATA::4	C:\Program Files (x86)\PICC\Devices\16F887.h	253;"	d	line:253
+UART_SEND_BREAK::13	C:\Program Files (x86)\PICC\Devices\16F887.h	257;"	d	line:257
+UART_WAKEUP_ON_RDA::10	C:\Program Files (x86)\PICC\Devices\16F887.h	256;"	d	line:256
+VREF_HIGH::0x80	C:\Program Files (x86)\PICC\Devices\16F887.h	306;"	d	line:306
+VREF_LOW::0xa0	C:\Program Files (x86)\PICC\Devices\16F887.h	305;"	d	line:305
+VREF_VDD::0x2000	C:\Program Files (x86)\PICC\Devices\16F887.h	361;"	d	line:361
+VREF_VREF::0x3000	C:\Program Files (x86)\PICC\Devices\16F887.h	360;"	d	line:360
+VSS_VDD::0x0000	C:\Program Files (x86)\PICC\Devices\16F887.h	358;"	d	line:358
+VSS_VREF::0x1000	C:\Program Files (x86)\PICC\Devices\16F887.h	359;"	d	line:359
+W::0	C:\Program Files (x86)\PICC\Drivers\luutinh.h	10;"	d	line:10
+WDT_1152MS::14	C:\Program Files (x86)\PICC\Devices\16F887.h	125;"	d	line:125
+WDT_144MS::11	C:\Program Files (x86)\PICC\Devices\16F887.h	122;"	d	line:122
+WDT_18MS::8	C:\Program Files (x86)\PICC\Devices\16F887.h	119;"	d	line:119
+WDT_2304MS::15	C:\Program Files (x86)\PICC\Devices\16F887.h	126;"	d	line:126
+WDT_288MS::12	C:\Program Files (x86)\PICC\Devices\16F887.h	123;"	d	line:123
+WDT_36MS::9	C:\Program Files (x86)\PICC\Devices\16F887.h	120;"	d	line:120
+WDT_576MS::13	C:\Program Files (x86)\PICC\Devices\16F887.h	124;"	d	line:124
+WDT_72MS::10	C:\Program Files (x86)\PICC\Devices\16F887.h	121;"	d	line:121
+WDT_DIV_16::0x100	C:\Program Files (x86)\PICC\Devices\16F887.h	132;"	d	line:132
+WDT_DIV_2::0x700	C:\Program Files (x86)\PICC\Devices\16F887.h	135;"	d	line:135
+WDT_DIV_4::0x500	C:\Program Files (x86)\PICC\Devices\16F887.h	134;"	d	line:134
+WDT_DIV_8::0x300	C:\Program Files (x86)\PICC\Devices\16F887.h	133;"	d	line:133
+WDT_FROM_SLEEP::3	C:\Program Files (x86)\PICC\Devices\16F887.h	79;"	d	line:79
+WDT_OFF::0	C:\Program Files (x86)\PICC\Devices\16F887.h	131;"	d	line:131
+WDT_ON::0x4100	C:\Program Files (x86)\PICC\Devices\16F887.h	130;"	d	line:130
+WDT_TIMEOUT::11	C:\Program Files (x86)\PICC\Devices\16F887.h	80;"	d	line:80
+WDT_TIMES_128::0x1700	C:\Program Files (x86)\PICC\Devices\16F887.h	143;"	d	line:143
+WDT_TIMES_16::0x1100	C:\Program Files (x86)\PICC\Devices\16F887.h	140;"	d	line:140
+WDT_TIMES_1::0x900	C:\Program Files (x86)\PICC\Devices\16F887.h	136;"	d	line:136
+WDT_TIMES_2::0xB00	C:\Program Files (x86)\PICC\Devices\16F887.h	137;"	d	line:137
+WDT_TIMES_32::0x1300	C:\Program Files (x86)\PICC\Devices\16F887.h	141;"	d	line:141
+WDT_TIMES_4::0xD00	C:\Program Files (x86)\PICC\Devices\16F887.h	138;"	d	line:138
+WDT_TIMES_64::0x1500	C:\Program Files (x86)\PICC\Devices\16F887.h	142;"	d	line:142
+WDT_TIMES_8::0xF00	C:\Program Files (x86)\PICC\Devices\16F887.h	139;"	d	line:139
+_lcd_h_	C:\Program Files (x86)\PICC\Drivers\lcd.h	1;"	d	line:1
+acos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1459;"	f	line:1459	signature:(float32 x)
+acos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1469;"	f	line:1469	signature:(float48 x)
+acos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1478;"	f	line:1478	signature:(float64 x)
+address	C:\Program Files (x86)\PICC\Drivers\lcd.h	193;"	l	line:193
+asin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1425;"	f	line:1425	signature:(float32 x)
+asin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1435;"	f	line:1435	signature:(float48 x)
+asin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1444;"	f	line:1444	signature:(float64 x)
+atan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1496;"	f	line:1496	signature:(float32 x)
+atan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1538;"	f	line:1538	signature:(float48 x)
+atan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1579;"	f	line:1579	signature:(float64 x)
+atan2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1629;"	f	line:1629	signature:(float32 y,float32 x)
+atan2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1701;"	f	line:1701	signature:(float48 y,float48 x)
+atan2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1771;"	f	line:1771	signature:(float64 y,float64 x)
+c	C:\Program Files (x86)\PICC\Drivers\MATH.H	1238;"	l	line:1238
+c	C:\Program Files (x86)\PICC\Drivers\MATH.H	1252;"	l	line:1252
+c	C:\Program Files (x86)\PICC\Drivers\MATH.H	1265;"	l	line:1265
+ceil	C:\Program Files (x86)\PICC\Drivers\MATH.H	218;"	f	line:218	signature:(float32 x)
+ceil	C:\Program Files (x86)\PICC\Drivers\MATH.H	225;"	f	line:225	signature:(float48 x)
+ceil	C:\Program Files (x86)\PICC\Drivers\MATH.H	231;"	f	line:231	signature:(float64 x)
+cos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1080;"	f	line:1080	signature:(float32 x)
+cos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1123;"	f	line:1123	signature:(float48 x)
+cos	C:\Program Files (x86)\PICC\Drivers\MATH.H	1163;"	f	line:1163	signature:(float64 x)
+cosh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1851;"	f	line:1851	signature:(float32 x)
+cosh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1858;"	f	line:1858	signature:(float48 x)
+cosh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1864;"	f	line:1864	signature:(float64 x)
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	329;"	l	line:329
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	387;"	l	line:387
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	436;"	l	line:436
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	509;"	l	line:509
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	586;"	l	line:586
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	659;"	l	line:659
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	878;"	l	line:878
+data1	C:\Program Files (x86)\PICC\Drivers\MATH.H	949;"	l	line:949
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	436;"	l	line:436
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	509;"	l	line:509
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	586;"	l	line:586
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	659;"	l	line:659
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	878;"	l	line:878
+data2	C:\Program Files (x86)\PICC\Drivers\MATH.H	949;"	l	line:949
+exp	C:\Program Files (x86)\PICC\Drivers\MATH.H	325;"	f	line:325	signature:(float32 x)
+exp	C:\Program Files (x86)\PICC\Drivers\MATH.H	384;"	f	line:384	signature:(float48 x)
+exp	C:\Program Files (x86)\PICC\Drivers\MATH.H	433;"	f	line:433	signature:(float64 x)
+fabs::abs	C:\Program Files (x86)\PICC\Drivers\MATH.H	244;"	d	line:244
+fgetc::getch	C:\Program Files (x86)\PICC\Devices\16F887.h	69;"	d	line:69
+fgets::gets	C:\Program Files (x86)\PICC\Devices\16F887.h	73;"	d	line:73
+flag	C:\Program Files (x86)\PICC\Drivers\MATH.H	1499;"	l	line:1499
+flag	C:\Program Files (x86)\PICC\Drivers\MATH.H	1541;"	l	line:1541
+flag	C:\Program Files (x86)\PICC\Drivers\MATH.H	1582;"	l	line:1582
+floor	C:\Program Files (x86)\PICC\Drivers\MATH.H	192;"	f	line:192	signature:(float32 x)
+floor	C:\Program Files (x86)\PICC\Drivers\MATH.H	199;"	f	line:199	signature:(float48 x)
+floor	C:\Program Files (x86)\PICC\Drivers\MATH.H	205;"	f	line:205	signature:(float64 x)
+fmod	C:\Program Files (x86)\PICC\Drivers\MATH.H	256;"	f	line:256	signature:(float32 x,float32 y)
+fmod	C:\Program Files (x86)\PICC\Drivers\MATH.H	276;"	f	line:276	signature:(float48 x,float48 y)
+fmod	C:\Program Files (x86)\PICC\Drivers\MATH.H	294;"	f	line:294	signature:(float64 x,float64 y)
+fputc::putchar	C:\Program Files (x86)\PICC\Devices\16F887.h	72;"	d	line:72
+fputs::puts	C:\Program Files (x86)\PICC\Devices\16F887.h	74;"	d	line:74
+frac	C:\Program Files (x86)\PICC\Drivers\MATH.H	1084;"	l	line:1084
+frac	C:\Program Files (x86)\PICC\Drivers\MATH.H	1127;"	l	line:1127
+frac	C:\Program Files (x86)\PICC\Drivers\MATH.H	1167;"	l	line:1167
+frexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	1939;"	f	line:1939	signature:(float32 x, signed int8 *exp)
+frexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	1986;"	f	line:1986	signature:(float48 x, signed int8 *exp)
+frexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	2031;"	f	line:2031	signature:(float64 x, signed int8 *exp)
+getc::getch	C:\Program Files (x86)\PICC\Devices\16F887.h	68;"	d	line:68
+getchar::getch	C:\Program Files (x86)\PICC\Devices\16F887.h	70;"	d	line:70
+high	C:\Program Files (x86)\PICC\Drivers\lcd.h	111;"	l	line:111
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	1083;"	l	line:1083
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	1126;"	l	line:1126
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	1166;"	l	line:1166
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	258;"	l	line:258
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	278;"	l	line:278
+i	C:\Program Files (x86)\PICC\Drivers\MATH.H	296;"	l	line:296
+i	C:\Program Files (x86)\PICC\Drivers\lcd.h	74;"	l	line:74
+l	C:\Program Files (x86)\PICC\Drivers\MATH.H	140;"	l	line:140
+l	C:\Program Files (x86)\PICC\Drivers\MATH.H	39;"	l	line:39
+l	C:\Program Files (x86)\PICC\Drivers\MATH.H	90;"	l	line:90
+lcd_enable_tris::output_drive(LCD_ENABLE_PIN)	C:\Program Files (x86)\PICC\Drivers\lcd.h	40;"	d	line:40
+lcd_getc	C:\Program Files (x86)\PICC\Drivers\lcd.h	10;"	p	line:10	signature:(byte x, byte y)
+lcd_getc	C:\Program Files (x86)\PICC\Drivers\lcd.h	211;"	f	line:211	signature:(byte x, byte y)
+lcd_gotoxy	C:\Program Files (x86)\PICC\Drivers\lcd.h	190;"	f	line:190	signature:(byte x, byte y)
+lcd_gotoxy	C:\Program Files (x86)\PICC\Drivers\lcd.h	9;"	p	line:9	signature:(byte x, byte y)
+lcd_init	C:\Program Files (x86)\PICC\Drivers\lcd.h	4;"	p	line:4	signature:(void)
+lcd_init	C:\Program Files (x86)\PICC\Drivers\lcd.h	71;"	f	line:71	signature:(void)
+lcd_line_four::0x54	C:\Program Files (x86)\PICC\Drivers\lcd.h	51;"	d	line:51
+lcd_line_one::0x00	C:\Program Files (x86)\PICC\Drivers\lcd.h	48;"	d	line:48
+lcd_line_three::0x14	C:\Program Files (x86)\PICC\Drivers\lcd.h	50;"	d	line:50
+lcd_line_two::0x40	C:\Program Files (x86)\PICC\Drivers\lcd.h	49;"	d	line:49
+lcd_output_enable::(x)output_bit(LCD_ENABLE_PIN,x	C:\Program Files (x86)\PICC\Drivers\lcd.h	39;"	d	line:39
+lcd_output_rs::(x)output_bit(LCD_RS_PIN,x)	C:\Program Files (x86)\PICC\Drivers\lcd.h	42;"	d	line:42
+lcd_output_rw::(x)output_bit(LCD_RW_PIN,x)	C:\Program Files (x86)\PICC\Drivers\lcd.h	45;"	d	line:45
+lcd_putc	C:\Program Files (x86)\PICC\Drivers\lcd.h	11;"	p	line:11	signature:(char c)
+lcd_putc	C:\Program Files (x86)\PICC\Drivers\lcd.h	226;"	f	line:226	signature:(char c)
+lcd_read_byte	C:\Program Files (x86)\PICC\Drivers\lcd.h	108;"	f	line:108	signature:(void)
+lcd_read_byte	C:\Program Files (x86)\PICC\Drivers\lcd.h	5;"	p	line:5	signature:(void)
+lcd_read_nibble	C:\Program Files (x86)\PICC\Drivers\lcd.h	141;"	f	line:141	signature:(void)
+lcd_read_nibble	C:\Program Files (x86)\PICC\Drivers\lcd.h	6;"	p	line:6	signature:(void)
+lcd_rs_tris::output_drive(LCD_RS_PIN)	C:\Program Files (x86)\PICC\Drivers\lcd.h	43;"	d	line:43
+lcd_rw_tris::output_drive(LCD_RW_PIN)	C:\Program Files (x86)\PICC\Drivers\lcd.h	46;"	d	line:46
+lcd_send_byte	C:\Program Files (x86)\PICC\Drivers\lcd.h	155;"	f	line:155	signature:(byte address, byte n)
+lcd_send_byte	C:\Program Files (x86)\PICC\Drivers\lcd.h	7;"	p	line:7	signature:(byte address, byte n)
+lcd_send_nibble	C:\Program Files (x86)\PICC\Drivers\lcd.h	173;"	f	line:173	signature:(byte n)
+lcd_send_nibble	C:\Program Files (x86)\PICC\Drivers\lcd.h	8;"	p	line:8	signature:(byte n)
+ldexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	2084;"	f	line:2084	signature:(float32 value, signed int8 exp)
+ldexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	2092;"	f	line:2092	signature:(float48 value, signed int8 exp)
+ldexp	C:\Program Files (x86)\PICC\Drivers\MATH.H	2097;"	f	line:2097	signature:(float64 value, signed int8 exp)
+log	C:\Program Files (x86)\PICC\Drivers\MATH.H	505;"	f	line:505	signature:(float32 x)
+log	C:\Program Files (x86)\PICC\Drivers\MATH.H	583;"	f	line:583	signature:(float48 x)
+log	C:\Program Files (x86)\PICC\Drivers\MATH.H	656;"	f	line:656	signature:(float64 x)
+log10	C:\Program Files (x86)\PICC\Drivers\MATH.H	737;"	f	line:737	signature:(float32 x)
+log10	C:\Program Files (x86)\PICC\Drivers\MATH.H	749;"	f	line:749	signature:(float48 x)
+log10	C:\Program Files (x86)\PICC\Drivers\MATH.H	759;"	f	line:759	signature:(float64 x)
+low	C:\Program Files (x86)\PICC\Drivers\lcd.h	111;"	l	line:111
+main	D:\Microprocess System\Proteus\LCD+LM35\LCD.c	10;"	f	line:10
+modf	C:\Program Files (x86)\PICC\Drivers\MATH.H	778;"	f	line:778	signature:(float32 value,float32 *iptr)
+modf	C:\Program Files (x86)\PICC\Drivers\MATH.H	786;"	f	line:786	signature:(float48 value,float48 *iptr)
+modf	C:\Program Files (x86)\PICC\Drivers\MATH.H	792;"	f	line:792	signature:(float64 value,float64 *iptr)
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	331;"	l	line:331
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	388;"	l	line:388
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	438;"	l	line:438
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	511;"	l	line:511
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	587;"	l	line:587
+n	C:\Program Files (x86)\PICC\Drivers\MATH.H	661;"	l	line:661
+n	C:\Program Files (x86)\PICC\Drivers\lcd.h	144;"	l	line:144
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	1016;"	l	line:1016
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	1085;"	l	line:1085
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	1128;"	l	line:1128
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	1168;"	l	line:1168
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	437;"	l	line:437
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	660;"	l	line:660
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	880;"	l	line:880
+p	C:\Program Files (x86)\PICC\Drivers\MATH.H	950;"	l	line:950
+pas	C:\Program Files (x86)\PICC\Drivers\MATH.H	1276;"	v	line:1276
+pat	C:\Program Files (x86)\PICC\Drivers\MATH.H	1487;"	v	line:1487
+pe	C:\Program Files (x86)\PICC\Drivers\MATH.H	321;"	v	line:321
+pl	C:\Program Files (x86)\PICC\Drivers\MATH.H	496;"	v	line:496
+pl_64	C:\Program Files (x86)\PICC\Drivers\MATH.H	653;"	v	line:653
+pow	C:\Program Files (x86)\PICC\Drivers\MATH.H	840;"	f	line:840	signature:(float32 x,float32 y)
+pow	C:\Program Files (x86)\PICC\Drivers\MATH.H	850;"	f	line:850	signature:(float48 x,float48 y)
+pow	C:\Program Files (x86)\PICC\Drivers\MATH.H	859;"	f	line:859	signature:(float64 x,float64 y)
+putc::putchar	C:\Program Files (x86)\PICC\Devices\16F887.h	71;"	d	line:71
+pwr	C:\Program Files (x86)\PICC\Drivers\MATH.H	805;"	f	line:805	signature:(float32 x,float32 y)
+pwr	C:\Program Files (x86)\PICC\Drivers\MATH.H	815;"	f	line:815	signature:(float48 x,float48 y)
+pwr	C:\Program Files (x86)\PICC\Drivers\MATH.H	823;"	f	line:823	signature:(float64 x,float64 y)
+qas	C:\Program Files (x86)\PICC\Drivers\MATH.H	1277;"	v	line:1277
+qat	C:\Program Files (x86)\PICC\Drivers\MATH.H	1488;"	v	line:1488
+ql	C:\Program Files (x86)\PICC\Drivers\MATH.H	497;"	v	line:497
+ql_64	C:\Program Files (x86)\PICC\Drivers\MATH.H	654;"	v	line:654
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1083;"	l	line:1083
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1126;"	l	line:1126
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1166;"	l	line:1166
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1633;"	l	line:1633
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1705;"	l	line:1705
+quad	C:\Program Files (x86)\PICC\Drivers\MATH.H	1775;"	l	line:1775
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1281;"	l	line:1281
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1329;"	l	line:1329
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1375;"	l	line:1375
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1427;"	l	line:1427
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1437;"	l	line:1437
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1446;"	l	line:1446
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1461;"	l	line:1461
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1471;"	l	line:1471
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1480;"	l	line:1480
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1498;"	l	line:1498
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1540;"	l	line:1540
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	1581;"	l	line:1581
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	327;"	l	line:327
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	386;"	l	line:386
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	435;"	l	line:435
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	507;"	l	line:507
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	585;"	l	line:585
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	658;"	l	line:658
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	739;"	l	line:739
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	751;"	l	line:751
+r	C:\Program Files (x86)\PICC\Drivers\MATH.H	761;"	l	line:761
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1015;"	l	line:1015
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1281;"	l	line:1281
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1329;"	l	line:1329
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1375;"	l	line:1375
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	139;"	l	line:139
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1498;"	l	line:1498
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1540;"	l	line:1540
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1581;"	l	line:1581
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1941;"	l	line:1941
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	1988;"	l	line:1988
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	2033;"	l	line:2033
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	327;"	l	line:327
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	386;"	l	line:386
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	38;"	l	line:38
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	435;"	l	line:435
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	507;"	l	line:507
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	585;"	l	line:585
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	658;"	l	line:658
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	876;"	l	line:876
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	89;"	l	line:89
+res	C:\Program Files (x86)\PICC\Drivers\MATH.H	948;"	l	line:948
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1238;"	l	line:1238
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1252;"	l	line:1252
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1265;"	l	line:1265
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1282;"	l	line:1282
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1330;"	l	line:1330
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1376;"	l	line:1376
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	141;"	l	line:141
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1499;"	l	line:1499
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1541;"	l	line:1541
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	1582;"	l	line:1582
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	332;"	l	line:332
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	389;"	l	line:389
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	40;"	l	line:40
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	439;"	l	line:439
+s	C:\Program Files (x86)\PICC\Drivers\MATH.H	91;"	l	line:91
+sAN0::1	C:\Program Files (x86)\PICC\Devices\16F887.h	340;"	d	line:340
+sAN10::0x40000	C:\Program Files (x86)\PICC\Devices\16F887.h	350;"	d	line:350
+sAN11::0x80000	C:\Program Files (x86)\PICC\Devices\16F887.h	351;"	d	line:351
+sAN12::0x100000	C:\Program Files (x86)\PICC\Devices\16F887.h	352;"	d	line:352
+sAN13::0x200000	C:\Program Files (x86)\PICC\Devices\16F887.h	353;"	d	line:353
+sAN1::2	C:\Program Files (x86)\PICC\Devices\16F887.h	341;"	d	line:341
+sAN2::4	C:\Program Files (x86)\PICC\Devices\16F887.h	342;"	d	line:342
+sAN3::8	C:\Program Files (x86)\PICC\Devices\16F887.h	343;"	d	line:343
+sAN4::16	C:\Program Files (x86)\PICC\Devices\16F887.h	344;"	d	line:344
+sAN5::32	C:\Program Files (x86)\PICC\Devices\16F887.h	345;"	d	line:345
+sAN6::64	C:\Program Files (x86)\PICC\Devices\16F887.h	346;"	d	line:346
+sAN7::128	C:\Program Files (x86)\PICC\Devices\16F887.h	347;"	d	line:347
+sAN8::0x10000	C:\Program Files (x86)\PICC\Devices\16F887.h	348;"	d	line:348
+sAN9::0x20000	C:\Program Files (x86)\PICC\Devices\16F887.h	349;"	d	line:349
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	1632;"	l	line:1632
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	1704;"	l	line:1704
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	1774;"	l	line:1774
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	1942;"	l	line:1942
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	1989;"	l	line:1989
+sign	C:\Program Files (x86)\PICC\Drivers\MATH.H	2034;"	l	line:2034
+sin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1210;"	f	line:1210	signature:(float32 x)
+sin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1218;"	f	line:1218	signature:(float48 x)
+sin	C:\Program Files (x86)\PICC\Drivers\MATH.H	1224;"	f	line:1224	signature:(float64 x)
+sinh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1878;"	f	line:1878	signature:(float32 x)
+sinh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1886;"	f	line:1886	signature:(float48 x)
+sinh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1893;"	f	line:1893	signature:(float64 x)
+sqrt	C:\Program Files (x86)\PICC\Drivers\MATH.H	1013;"	f	line:1013	signature:(float64 x)
+sqrt	C:\Program Files (x86)\PICC\Drivers\MATH.H	874;"	f	line:874	signature:(float32 x)
+sqrt	C:\Program Files (x86)\PICC\Drivers\MATH.H	946;"	f	line:946	signature:(float48 x)
+t	C:\Program Files (x86)\PICC\Drivers\MATH.H	1082;"	l	line:1082
+t	C:\Program Files (x86)\PICC\Drivers\MATH.H	1125;"	l	line:1125
+t	C:\Program Files (x86)\PICC\Drivers\MATH.H	1165;"	l	line:1165
+t2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1082;"	l	line:1082
+t2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1125;"	l	line:1125
+t2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1165;"	l	line:1165
+tan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1236;"	f	line:1236	signature:(float32 x)
+tan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1250;"	f	line:1250	signature:(float48 x)
+tan	C:\Program Files (x86)\PICC\Drivers\MATH.H	1263;"	f	line:1263	signature:(float64 x)
+tanh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1908;"	f	line:1908	signature:(float32 x)
+tanh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1915;"	f	line:1915	signature:(float48 x)
+tanh	C:\Program Files (x86)\PICC\Drivers\MATH.H	1921;"	f	line:1921	signature:(float64 x)
+temp	D:\Microprocess System\Proteus\LCD+LM35\LCD.c	9;"	v	line:9
+temp1	C:\Program Files (x86)\PICC\Drivers\MATH.H	1017;"	l	line:1017
+temp2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1017;"	l	line:1017
+temperature	D:\Microprocess System\Proteus\LCD+LM35\LCD.c	8;"	v	line:8
+value	C:\Program Files (x86)\PICC\Drivers\lcd.h	214;"	l	line:214
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1015;"	l	line:1015
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1082;"	l	line:1082
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1125;"	l	line:1125
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1165;"	l	line:1165
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1281;"	l	line:1281
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1329;"	l	line:1329
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1375;"	l	line:1375
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	139;"	l	line:139
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1498;"	l	line:1498
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1540;"	l	line:1540
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	1581;"	l	line:1581
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	327;"	l	line:327
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	386;"	l	line:386
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	38;"	l	line:38
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	435;"	l	line:435
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	507;"	l	line:507
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	585;"	l	line:585
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	658;"	l	line:658
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	876;"	l	line:876
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	89;"	l	line:89
+y	C:\Program Files (x86)\PICC\Drivers\MATH.H	948;"	l	line:948
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1281;"	l	line:1281
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1329;"	l	line:1329
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	1375;"	l	line:1375
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	507;"	l	line:507
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	585;"	l	line:585
+y2	C:\Program Files (x86)\PICC\Drivers\MATH.H	658;"	l	line:658
+z	C:\Program Files (x86)\PICC\Drivers\MATH.H	1631;"	l	line:1631
+z	C:\Program Files (x86)\PICC\Drivers\MATH.H	1703;"	l	line:1703
+z	C:\Program Files (x86)\PICC\Drivers\MATH.H	1773;"	l	line:1773
